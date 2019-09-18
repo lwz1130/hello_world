@@ -17,5 +17,5 @@
 ### >别人的效果是
 ！[alt text](http://github.com/voidf/my_sher_coder/tree/master/voidf#
 ### >自己的效果则是……
-! [alt text](https://github.com/lwz1130/have-a-try)
+! [alt text](https://github.com/lwz1130/have-a-try
 所以本来想放弃来着
