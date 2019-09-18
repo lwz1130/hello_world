@@ -17,5 +17,5 @@
 ### >别人的效果是
 ！[alt text](http://github.com/voidf/my_sher_coder/tree/master/voidf#
 ### >自己的效果则是……
-! [](haha.jpg) 
+! [alt text](  
 所以本来想放弃来着
